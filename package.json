@@ -1,0 +1,25 @@
+{
+  "name": "rabitmq-example",
+  "version": "1.0.0",
+  "description": "Learning RabbitMQ project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slaypotato/rabbitmq-learning.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs"
+  ],
+  "author": "Rafael C Morales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slaypotato/rabbitmq-learning/issues"
+  },
+  "homepage": "https://github.com/slaypotato/rabbitmq-learning#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
